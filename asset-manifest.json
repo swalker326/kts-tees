@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kts-tees/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kts-tees/static/js/main.e27aaa92.chunk.js",
+    "main.js.map": "/kts-tees/static/js/main.e27aaa92.chunk.js.map",
+    "runtime-main.js": "/kts-tees/static/js/runtime-main.182612de.js",
+    "runtime-main.js.map": "/kts-tees/static/js/runtime-main.182612de.js.map",
+    "static/js/2.5e3afeb6.chunk.js": "/kts-tees/static/js/2.5e3afeb6.chunk.js",
+    "static/js/2.5e3afeb6.chunk.js.map": "/kts-tees/static/js/2.5e3afeb6.chunk.js.map",
+    "index.html": "/kts-tees/index.html",
+    "precache-manifest.e721a67bccc9e9e6bf5668db6ed7c6dc.js": "/kts-tees/precache-manifest.e721a67bccc9e9e6bf5668db6ed7c6dc.js",
+    "service-worker.js": "/kts-tees/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kts-tees/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5e3afeb6.chunk.js.LICENSE.txt": "/kts-tees/static/js/2.5e3afeb6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kts-tees/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.182612de.js",
+    "static/js/2.5e3afeb6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e27aaa92.chunk.js"
+  ]
+}
